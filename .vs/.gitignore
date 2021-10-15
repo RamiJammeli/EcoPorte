@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/EcoPorte/Eco_Porte/.vs/Eco_Porte/v16/Server/sqlite3/storage.ide-wal
+/EcoPorte/Eco_Porte/.vs/Eco_Porte/v16/Server/sqlite3/storage.ide-shm
+/EcoPorte/Eco_Porte/.vs/Eco_Porte/v16/Server/sqlite3/storage.ide
+/EcoPorte/Eco_Porte/.vs/Eco_Porte/v16/Server/sqlite3/db.lock
